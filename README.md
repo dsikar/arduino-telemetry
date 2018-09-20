@@ -1,6 +1,8 @@
 # arduino-telemetry
 433MHz 100mw radio telemetry 
 
+![RFxNodeMCU-telemetry.jpg](images/RFxNodeMCU-telemetry.jpg)
+
 ## BOM
 
 * 433MHz 100mw RF module x2
