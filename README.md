@@ -11,8 +11,6 @@
 ## Wiring
 
 ```
-      Wiring
- 
       433MHz 100mw
        RF modules                                       NodeMCU
       +-----------+                                  +----------+
